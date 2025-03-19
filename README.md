@@ -65,4 +65,3 @@ DIKE is open-source under the MIT License.
 Interested in using or customizing DIKE for your project? Reach out:
 - Email: [maxell1452@gmail.com](mailto:maxell1452@gmail.com)
 - Telegram: [@maxell1452](https://t.me/maxell1452)
-- WhatsApp: [+84971471913](https://wa.me/84971471913)
