@@ -19,14 +19,14 @@ Built for developers and operators, DIKE gives you full control over your gaming
 
 ## 🎮 Features
 
-✅ **Provably Fair** - Verifiable randomness ensures fairness.
-✅ **Self-Hosting** - Deploy and control your own casino.
-✅ **Custodial & Non-Custodial Options** - Support for BTC, EVM chains, and Solana.
-✅ **BTC & EVM-Based Deposits** - Accept payments via Lightning, Ethereum, BSC, Polygon, and more.
-✅ **Fully Decentralized on Solana** - On-chain betting & payouts.
-✅ **Multi-Game Support** - 2D and 3D immersive experiences.
-✅ **Customizable UI & Logic** - Tailor the experience to your needs.
-✅ **Web3 Integration** - Smart contract support for trustless gaming.
+- ✅ **Provably Fair** - Verifiable randomness ensures fairness.
+- ✅ **Self-Hosting** - Deploy and control your own casino.
+- ✅ **Custodial & Non-Custodial Options** - Support for BTC, EVM chains, and Solana.
+- ✅ **BTC & EVM-Based Deposits** - Accept payments via Lightning, Ethereum, BSC, Polygon, and more.
+- ✅ **Fully Decentralized on Solana** - On-chain betting & payouts.
+- ✅ **Multi-Game Support** - 2D and 3D immersive experiences.
+- ✅ **Customizable UI & Logic** - Tailor the experience to your needs.
+- ✅ **Web3 Integration** - Smart contract support for trustless gaming.
 
 ---
 
