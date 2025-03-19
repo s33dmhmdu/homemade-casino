@@ -1,5 +1,9 @@
 # 🎲 DIKE - Provably Fair Self-Hosted Games
 
+
+https://github.com/user-attachments/assets/9756fb44-f40f-4c80-a618-d3b08ad5b6e9
+
+
 ## 🚀 Introduction
 DIKE is a next-generation, self-hosted gaming platform that enables **provably fair** casino games with multiple custody options. Operators can choose between:
 
