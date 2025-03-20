@@ -1,5 +1,10 @@
 # 🎲 DIKE - Provably Fair Self-Hosted Games
 
+
+https://github.com/user-attachments/assets/8cd1a1ea-8228-405e-9e00-9fd8cce40964
+
+
+
 ## 🚀 Introduction
 DIKE is a self-hosted, provably fair gaming platform designed for easy deployment. Whether you want centralized control or full decentralization, DIKE supports:
 
